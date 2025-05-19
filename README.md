@@ -1,0 +1,2 @@
+# .github
+StellarTronix github setup
