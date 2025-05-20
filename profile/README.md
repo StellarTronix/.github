@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://determinate.systems" target="_blank"><img src="https://github.com/StellarTronix/.github/blob/main/profile/stellartronix.png"></a>
+</p>
+
 ## Hi there 👋
 
 
