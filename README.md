@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://determinate.systems" target="_blank"><img src="https://raw.githubusercontent.com/determinatesystems/.github/main/.github/banner.jpg"></a>
+  <a href="https://determinate.systems" target="_blank"><img src="https://raw.githubusercontent.com/StellarTronix/.github/main/.github/profile/stellartronix.png"></a>
 </p>
 <p align="center">
   &nbsp;<a href="https://determinate.systems/discord" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1116012109709463613?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%234253e8&color=%23e4e2e2"></a>&nbsp;
